@@ -15,7 +15,7 @@ import os
 import numpy as np
 import pandas as pd
 import pandasql as psql
-import sqlite3 #Should be able to use this to store the data... Will need to react a new database if the database does not currently exist though.
+import sqlite3 #Should be able to use this to store the data... Will need to create a new database if the database does not currently exist though.
 import time
 from tkinter import * #"*" Means all
 from tkinter.ttk import *
